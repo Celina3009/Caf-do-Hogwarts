@@ -12,3 +12,7 @@ body{
     color: rgb(126, 46, 46);
     font-size: 20px;
 }
+
+#img-cabecalho{
+    width: 50px;
+}
