@@ -15,4 +15,7 @@ body{
 
 #img-cabecalho{
     width: 300px;
+
+.cabecalho{
+    text-align: center;
 }
