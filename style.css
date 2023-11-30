@@ -15,5 +15,6 @@ body{
     
 
 .cabecalho{
-   justify-content: space-around;
+   align-items: center;
+   display: inline-block;
 }
