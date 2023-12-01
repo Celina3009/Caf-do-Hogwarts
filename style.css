@@ -18,3 +18,8 @@ body{
    align-items: center;
    justify-content: space-around;
 }
+
+.cabecalho{
+    float: left;
+    margin-right: 10px;
+ }
