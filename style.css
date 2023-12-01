@@ -17,9 +17,10 @@ body{
 .cabecalho{
    align-items: center;
    justify-content: space-around;
-}
 
-.cabecalho{
-    float: left;
-    margin-right: 10px;
+
+cabecalho{
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
  }
