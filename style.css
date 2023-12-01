@@ -17,9 +17,9 @@ body{
 .cabecalho{
    align-items: center;
    justify-content: space-around;
-}
 
-cabecalho{
+
+.cabecalho{
     display: inline-block;
     vertical-align: top;
     width: 50%;
